@@ -1,2 +1,8 @@
 # PlayerListInfo-Velocity
-PlayerListInfo-Velocity 是一个适用于 Velocity 代理服务器的轻量级插件，用于在服务器 MOTD 中的玩家列表（玩家样例）上显示当前游戏的总在线人数以及在大厅中排队的玩家数量。该插件能够动态更新玩家样例信息，让玩家在添加服务器时即可了解当前服务器的活跃状态和排队情况，提升用户体验，适用于支持排队机制的多子服服务器。
+
+PlayerListInfo-Velocity 基于 Java 17 开发，适用于 Velocity 3.4 版本的代理服务器。插件可在服务器 MOTD 的玩家样例列表中动态展示游戏内的总在线人数与大厅排队人数，适用于支持子服务器与排队机制的多服架构。部署简单、性能优异，是提升服务器交互体验的理想选择。
+PlayerListInfo-Velocity is developed with Java 17 and is compatible with Velocity 3.4 proxy servers. It dynamically displays the total number of online players and the number of players queuing in the lobby through the player sample section in the server MOTD. Designed for multi-server setups with queue systems, it offers lightweight performance and easy deployment to enhance the user experience.
+本插件 PlayerListInfo-Velocity 免费开放使用，允许在非商业用途下修改和再发布。但修改后的版本必须在显著位置注明原作者（例如 README 或插件描述中），并附带原项目地址。
+项目地址: https://github.com/Cotton-seed/PlayerListInfo-Velocity/
+PlayerListInfo-Velocity is free to use and modify for non-commercial purposes. However, any modified versions must clearly credit the original author (e.g., in the README or plugin description) and provide a link to the original repository.
+Original repository: https://github.com/Cotton-seed/PlayerListInfo-Velocity/
