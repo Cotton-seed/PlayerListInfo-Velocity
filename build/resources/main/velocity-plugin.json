@@ -1,0 +1,8 @@
+{
+  "id": "playerlistinfo",
+  "name": "PlayerListInfo",
+  "version": "1.0",
+  "main": "com.example.playerlistinfo.PlayerListInfo",
+  "authors": ["籽棉有点苟"],
+  "dependencies": []
+}
